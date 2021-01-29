@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yusei+Magic&display=swap');
+
+*{background-color:goldenrod;}
+.container{display: flex}
+.center{text-align: center ;}
+.img{ display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%}
+
+    .image{display: flex;
+        
+        width: 20%}
+         
+       h1 {font-family: 'Pacifico', cursive;}
+       h2 {font-family: 'Pacifico', cursive;}
+       h3{font-family: 'Pacifico', cursive;}
+       div{font-family: 'Yusei Magic', sans-serif;}
